@@ -127,7 +127,7 @@ class _HomePageState extends State<HomePage> {
                         if (value == "" || value == null || value.length < 9) {
                           return "Insira um CEP valido ";
                         } else if (!regex.hasMatch(value)) {
-                          return "insira apenas os números";
+                          return "são apenas permitidos números e \"-\"";
                         } else {
                           return null;
                         }
