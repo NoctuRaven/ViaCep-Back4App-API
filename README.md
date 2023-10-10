@@ -3,10 +3,10 @@
 A new Flutter project.
 
 ## API
--ViaCEP
--Back4app
+- ViaCEP
+- Back4app
 ## Packages
--Dio
+- Dio
 
 ## Images
 
